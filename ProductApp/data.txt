@@ -1,0 +1,16 @@
+DATA LOG
+*************************
+Customer Name: Tshepo
+Product: Cozy Nights Monarch
+VAT: R 90.0
+COMMISSION: R 30.0
+TOTAL: R 720.0
+*************************
+DATA LOG
+*************************
+Customer Name: Tshepo
+Product: Restonic Barbados
+VAT: R 90.0
+COMMISSION: R 30.0
+TOTAL: R 720.0
+*************************
